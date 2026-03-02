@@ -11,9 +11,9 @@ Structured and performance-optimized sales analysis of a simulated PizzaHut data
 
 3. [Dataset](#3-dataset)
 
-4. [Database Design & Normalization](#4-database-design-normalization)
+4. [Database Design And Normalization](#4-database-design-and-normalization)
 
-5. [Indexing & Performance Strategy](#5-indexing-performance-strategy)
+5. [Indexing And Performance Strategy](#5-indexing-and-performance-strategy)
 
 6. [Data Ingestion](#6-data-ingestion)
 
@@ -250,5 +250,9 @@ All queries are available in:
 
 
  # 10. Contact
- 
+ * Email - santosh96736@gmail.com
+
+ * LinkedIn - [www.linkedin.com/in/santosh96736-data-analyst](https://www.linkedin.com/in/santosh96736-data-analyst/)
+
+ * GitHub - 
 
