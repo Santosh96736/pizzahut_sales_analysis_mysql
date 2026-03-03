@@ -245,7 +245,7 @@ All queries are available in:
 * Revenue fluctuates month-over-month with seasonal variation.
 * Classic category contributes the highest volume (30%).
 * Thai Chicken Pizza generates the highest total revenue.
-* Revenue follows the Pareto principle.
+* Revenue distribution is diversified across pizza types, reducing dependency on a small subset of products.
 
 
 ## Skills Demonstrated
