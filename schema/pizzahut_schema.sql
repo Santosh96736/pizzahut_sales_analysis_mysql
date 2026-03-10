@@ -3,7 +3,7 @@ CREATE DATABASE IF NOT EXISTS pizzahut;
 USE pizzahut;
 
 CREATE TABLE IF NOT EXISTS pizza_types (
-    pizza_type_id VARCHAR(15) NOT NULL,
+    pizza_type_id VARCHAR(15),
     name VARCHAR(50) NOT NULL,
     category VARCHAR(10) NOT NULL,
     ingredients VARCHAR(100) NOT NULL,
@@ -18,7 +18,7 @@ FROM
 
 
 CREATE TABLE IF NOT EXISTS pizzas (
-    pizza_id VARCHAR(20) NOT NULL,
+    pizza_id VARCHAR(20),
     pizza_type_id VARCHAR(15) NOT NULL,
     size ENUM('S', 'M', 'L', 'XL', 'XXL') NOT NULL,
     price DECIMAL(10 , 2 ) NOT NULL,
@@ -35,7 +35,7 @@ FROM
     pizzas;
 
 CREATE TABLE IF NOT EXISTS orders( 
-order_id INT NOT NULL, 
+order_id INT, 
 date DATE NOT NULL DEFAULT(CURRENT_DATE()), 
 time TIME NOT NULL DEFAULT(CURRENT_TIME()), 
 CONSTRAINT pk_orders PRIMARY KEY (order_id)
@@ -48,7 +48,7 @@ FROM
     orders;
 
 CREATE TABLE IF NOT EXISTS order_details (
-    order_details_id INT NOT NULL,
+    order_details_id INT,
     order_id INT NOT NULL,
     pizza_id VARCHAR(20) NOT NULL,
     quantity INT NOT NULL,
