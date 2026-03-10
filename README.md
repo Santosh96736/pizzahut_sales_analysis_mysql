@@ -133,7 +133,7 @@ The schema was designed using relational modeling principles.
 
 * Avoided redundant indexing
   
-Schema file available in: [Schema](https://github.com/Santosh96736/pizzahut_sales_analysis_mysql/blob/main/schema/pizzahut_schema.sql)
+Schema file available in: [Schema](https://github.com/Santosh96736/pizzahut-sales-analysis-mysql/blob/main/schema/pizzahut_schema.sql)
 
 
 ## Indexing & Performance Strategy
@@ -187,7 +187,7 @@ Data was loaded into MySQL using a Jupyter Notebook.
 
 Note: Minimal transformation was applied. Data integrity is enforced at the database level using constraints.
 
-Notebook available in: [Ingestion](https://github.com/Santosh96736/pizzahut_sales_analysis_mysql/blob/main/etl/PizzaHut_Python_codes.ipynb)
+Notebook available in: [Ingestion](https://github.com/Santosh96736/pizzahut-sales-analysis-mysql/blob/main/etl/pizzahut_data_ingestion.ipynb)
 
 
 ## Analytical Queries
