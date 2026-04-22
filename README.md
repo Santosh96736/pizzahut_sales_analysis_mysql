@@ -240,12 +240,17 @@ All queries are available in:
 
 
 ## Key Insights
-* Peak sales occur at 12 PM, indicating strong lunch demand.
-* Friday generates the highest weekly revenue.
-* Revenue fluctuates month-over-month with seasonal variation.
-* Classic category contributes the highest volume (30%).
-* Thai Chicken Pizza generates the highest total revenue.
-* Revenue distribution is diversified across pizza types, reducing dependency on a small subset of products.
+* Peak sales occur at 12 PM, indicating strong lunch demand.  
+→ Businesses can optimize staffing and inventory during this period to improve service speed.
+* Friday generates the highest revenue, suggesting increased weekend demand.  
+→ Opportunity to introduce targeted promotions or offers.
+* Classic category contributes the highest volume (~30%), indicating strong customer preference.  
+→ Helps in prioritizing inventory and menu focus.
+* Thai Chicken Pizza generates the highest revenue, making it a key product.  
+→ Can be promoted further to maximize revenue.
+* Revenue shows month-over-month variation, indicating seasonality.  
+→ Useful for forecasting and planning inventory.
+* Revenue is well distributed across products, reducing dependency risk.
 
 
 ## Skills Demonstrated
